@@ -24,7 +24,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "svg2img": "^0.5.0",
-    "vega": "^4.3.0",
+    "vega": "^5.17.3",
     "vega-embed": "^3.26.0",
     "vega-lite": "^3.0.0-rc8",
     "vue": "^2.5.2",
