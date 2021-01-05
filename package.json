@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/d3": "^5.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.0.0-rc.11",
     "browserify-fs": "^1.0.0",
     "canvas": "^2.0.1",
