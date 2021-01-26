@@ -18,7 +18,7 @@
     "canvas-to-image": "^2.0.0",
     "d3": "^5.7.0",
     "fs": "0.0.1-security",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "material-icons": "^0.2.3",
     "mathjs": "^5.2.3",
     "stylus": "^0.54.5",
